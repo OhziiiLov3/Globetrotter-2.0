@@ -56,7 +56,7 @@
   /* Navbar */
 
   nav{
-    background-color:  #60a5fa;
+    background-color:  #1e3a8a;
     top: 0;
     padding: 1rem;
     position: sticky;
@@ -72,11 +72,11 @@
   .nav-item a{
     text-decoration: none;
     color: #ffff;
-    font-weight: 500;
+    font-weight: 700;
   }
 
   .nav-item a:hover{
-    color: #2563eb;
+    color: #93c5fd;
   }
 
   /* Hamburger Menu icon */
@@ -114,8 +114,79 @@
       display: block;
     }
   }
+
+  /* Newsletter Section */
+.newsletter-section {
+  padding: 3rem 2rem;
+  background-color: #f3f4f6;
+  text-align: center;
+}
+
+.newsletter-section h2 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+  color: #1f2937;
+}
+
+.newsletter-section p {
+  font-size: 1rem;
+  color: #4b5563;
+  margin-bottom: 1.5rem;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.newsletter-form {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.newsletter-form input[type="email"] {
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.5rem;
+  flex: 1 1 250px;
+  max-width: 300px;
+}
+
+.newsletter-form button {
+  padding: 0.75rem 1.5rem;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.newsletter-form button i {
+  margin-right: 0.5rem;
+}
+
+.newsletter-form button:hover {
+  background-color: #1d4ed8;
+}
+
+@media (max-width: 500px) {
+  .newsletter-form {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .newsletter-form input,
+  .newsletter-form button {
+    width: 100%;
+    max-width: none;
+  }
+}
+
   
-  /* Section */
+  /* Explore Section */
 
   .explore-section {
     display: flex;
@@ -328,6 +399,7 @@
 .gallery-section h1 {
   font-size: 2.5rem;
   margin-bottom: 1rem;
+  color: #1e3a8a;
 }
 
 .gallery-section p {

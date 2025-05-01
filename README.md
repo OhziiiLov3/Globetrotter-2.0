@@ -2,9 +2,7 @@
 ## By Keith Baskerville - FTL Tech Fellow
 ### Unit Assignment: Globetrotter
 
-Submitted by: **NAME**
-
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **3 hours** hours spent in total
 
 Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 

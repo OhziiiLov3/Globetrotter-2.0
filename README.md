@@ -2,7 +2,7 @@
 ## By Keith Baskerville - FTL Tech Fellow
 ### Unit Assignment: Globetrotter
 
-![Screenshot 2025-05-01 at 2.00.39 PM.png](<https://media-hosting.imagekit.io/48021294752447cc/Screenshot%202025-05-01%20at%202.00.39%E2%80%AFPM.png?Expires=1840741402&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=K3YWL2LDIuSWGShAcZwWxvg4IU9FQeqoQ53aBviVZVMs4xBFN7Mrbutc71xtortr7pqLtlqMd1RNJC4FSfbPvzWipR9uvIkvka2-a0RJlmAXBRSMzB6I~VEGGT4KvUR9uClQcJBdt~4taQzg5u3L7p-C09xTeAghPpkDOeIzRHz-PoiPiZ60RAEfCHwWRZTLfAlTym6d7sNI5NmrOMfqbE-BLnJW2ua8uL5ZHd7k6KvHkx6-QrkuykwMPOrDeJORZ-ZGOeUSVJUrBWl7bBTPgYc2Mzvo7HnoGaxbODMCJItoF2yR3HsiFpdwfXf~~g3dJOTnW2UclUe9xLeu4M20YA__>)
+![Home Page](https://res.cloudinary.com/dhwcscxdh/image/upload/v1746136687/Screenshot_2025-05-01_at_2.00.39_PM_bxi07h.png)
 
 Estimated time spent: **3.5 hours** hours spent in total
 
@@ -40,7 +40,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://globetrott
 
 #### STRETCH FEATURES
 
-- [ ] **Additional Media**
+- [x] **Additional Media**
   - Embed a map or a video that relates to the travel content.
 
 - [x] **Enhanced Layouts**
@@ -49,7 +49,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://globetrott
 - [x] **Interactive Features**
   - Implement a dropdown menu in the navigation bar for additional categories or sub-pages.
 
-- [ ] **Deployment**: Deploy your website so it's accessible to the public outside of your local machine. 
+- [x] **Deployment**: Deploy your website so it's accessible to the public outside of your local machine. 
 
 - [x] **Interactive Navigation**: Enhance the usability of your navigation bar.
   - Implement a dropdown menu in the navigation bar to organize additional categories or sub-pages.

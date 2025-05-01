@@ -2,9 +2,11 @@
 ## By Keith Baskerville - FTL Tech Fellow
 ### Unit Assignment: Globetrotter
 
-Estimated time spent: **3 hours** hours spent in total
+![Screenshot 2025-05-01 at 2.00.39 PM.png](<https://media-hosting.imagekit.io/48021294752447cc/Screenshot%202025-05-01%20at%202.00.39%E2%80%AFPM.png?Expires=1840741402&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=K3YWL2LDIuSWGShAcZwWxvg4IU9FQeqoQ53aBviVZVMs4xBFN7Mrbutc71xtortr7pqLtlqMd1RNJC4FSfbPvzWipR9uvIkvka2-a0RJlmAXBRSMzB6I~VEGGT4KvUR9uClQcJBdt~4taQzg5u3L7p-C09xTeAghPpkDOeIzRHz-PoiPiZ60RAEfCHwWRZTLfAlTym6d7sNI5NmrOMfqbE-BLnJW2ua8uL5ZHd7k6KvHkx6-QrkuykwMPOrDeJORZ-ZGOeUSVJUrBWl7bBTPgYc2Mzvo7HnoGaxbODMCJItoF2yR3HsiFpdwfXf~~g3dJOTnW2UclUe9xLeu4M20YA__>)
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
+Estimated time spent: **3.5 hours** hours spent in total
+
+Deployed Application (optional): [Globetrotter Deployed Site](https://globetrottoer-2.netlify.app/)
 
 ### Application Features
 
@@ -23,7 +25,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 - [x] **Guide Section (Choose One)**
   - [x] Either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
   - [x] At least three entries that provide a name, address, and a description catered to a specific type of traveler (families, backpackers, etc.).
-  - [ ] Links to more information for each entry, laid out using Flexbox.
+  - [x] Links to more information for each entry, laid out using Flexbox.
 
 - [x] **Photo Gallery**
   - [x] At least five images with captions that convey the local atmosphere or highlights.
@@ -59,8 +61,3 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [x] Integrate at least one custom font using Google Fonts to add personality to your site.
   - [x] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
-### Walkthrough Video
-
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`

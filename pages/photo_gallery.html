@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+     <!-- Font Awesome CDN -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+     <link rel="stylesheet" href="/styles.css">
+     <script defer src="/app.js"></script>
+</head>
+<body>
+  <header>
+    <div class="hero">
+      <img src="/assets/images/aerial-drone-view-tyrrhenian-sea-coast-positano-italy.jpg" alt="Scenic Italy">
+      <div class="overlay"></div>
+      <h1>Unforgettable Memories</h1>
+    </div>
+    <nav>
+      <div class="menu-toggle" id="menu-toggle"><i class="fas fa-bars" id="menu-icon"></i></div>
+      <ul class="nav-links">
+        <li class="nav-item"><a href="/index.html">Home</a></li>
+        <li class="nav-item"><a href="/pages/top_attractions.html">Top Attractions</a></li>
+        <li class="nav-item"><a href="/pages/food_guide.html">Food Guide</a></li>
+        <li class="nav-item"><a href="/pages/photo_gallery.html">Gallery</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="gallery-section">
+    <h1>Photo Gallery</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur ex sapiente voluptatem placeat voluptas sequi.</p>
+    
+    <div class="gallery-grid">
+      <figure class="gallery-item">
+        <img src="/assets/images/photo-canal-city.jpg" alt="Beautiful Canals" class="gallery-img" />
+        <figcaption>Beautiful Canals</figcaption>
+      </figure>
+  
+      <figure class="gallery-item">
+        <img src="/assets/images/naviglio-grande-canal-evening-milan-italy.jpg" alt="Fun Nights Out" class="gallery-img" />
+        <figcaption>Fun Nights Out</figcaption>
+      </figure>
+  
+      <figure class="gallery-item tall">
+        <img src="/assets/images/part-famous-grand-canal-sunset-venice.jpg" alt="Magical Sunsets" class="gallery-img" />
+        <figcaption>Magical Sunsets</figcaption>
+      </figure>
+  
+      <figure class="gallery-item wide">
+        <img src="/assets/images/vertical-picture-gondolas-grand-channel-colorful-buildings-venice-italy.jpg" alt="Breath taking scenery" class="gallery-img" />
+        <figcaption>Breath taking scenery</figcaption>
+      </figure>
+  
+      <figure class="gallery-item wide">
+        <img src="/assets/images/low-angle-shot-beautiful-leaning-tower-pisa-blue-sky.jpg" alt="Historic Sites" class="gallery-img" />
+        <figcaption>Historic Sites</figcaption>
+      </figure>
+  
+      <figure class="gallery-item wide">
+        <img src="/assets/images/beautiful-shot-colorful-apartment-buildings-rocky-hill-seashore-blue-sky.jpg" alt="Adventures & more" class="gallery-img" />
+        <figcaption>Adventures & more</figcaption>
+      </figure>
+    </div>
+  </section>
+  
+
+  <!-- Modal -->
+  <div class="modal" id="modal">
+    <span class="close" id="closeBtn">&times;</span>
+    <img class="modal-content" id="modalImg">
+    <div class="caption" id="captionText"></div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-container">
+      <div class="footer-info">
+        <h3>Contact</h3>
+        <p>Email: info@globetrotter.com</p>
+        <p>Phone: +39 012 345 6789</p>
+        <p>Location: Rome, Italy</p>
+      </div>
+      <div class="footer-info">
+        <h3>About This Site</h3>
+        <p>Globetrotter 2.0 is your guide to exploring the beauty, food, and culture of Italy.</p>
+        <p>&copy; <span id="year"></span> Globetrotter. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

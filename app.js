@@ -25,3 +25,22 @@ document.addEventListener("DOMContentLoaded", () => {
         yearSpan.textContent = new Date().getFullYear();
     }
 });
+
+
+// Gallery Modal Logic
+const modal = document.getElementById("modal");
+const modalImg = document.getElementById("modalImg");
+const captionText = document.getElementById("captionText");
+const closeBtn = document.getElementById("closeBtn");
+
+document.querySelectorAll(".gallery-img").forEach((img) => {
+  img.addEventListener("click", () => {
+    modal.style.display = "block";
+    modalImg.src = img.src;
+    captionText.innerText = img.alt;
+  });
+});
+
+closeBtn.addEventListener("click", () => {
+  modal.style.display = "none";
+});

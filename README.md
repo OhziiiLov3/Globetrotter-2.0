@@ -27,9 +27,9 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [x] At least three entries that provide a name, address, and a description catered to a specific type of traveler (families, backpackers, etc.).
   - [ ] Links to more information for each entry, laid out using Flexbox.
 
-- [ ] **Photo Gallery**
-  - [ ] At least five images with captions that convey the local atmosphere or highlights.
-  - [ ] A gallery presented in a responsive design.
+- [x] **Photo Gallery**
+  - [x] At least five images with captions that convey the local atmosphere or highlights.
+  - [x] A gallery presented in a responsive design.
 
 - [x] **Navigation Bar**
   - [x] Links to each main page of the site (Home, Top Attractions, Photo Gallery, and the chosen Guide section).
@@ -43,7 +43,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 - [ ] **Additional Media**
   - Embed a map or a video that relates to the travel content.
 
-- [ ] **Enhanced Layouts**
+- [x] **Enhanced Layouts**
   - Utilize CSS Grid on one or more pages for a unique layout.
 
 - [x] **Interactive Features**
@@ -51,7 +51,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 - [ ] **Deployment**: Deploy your website so it's accessible to the public outside of your local machine. 
 
-- [ ] **Interactive Navigation**: Enhance the usability of your navigation bar.
+- [x] **Interactive Navigation**: Enhance the usability of your navigation bar.
   - Implement a dropdown menu in the navigation bar to organize additional categories or sub-pages.
 
 - [ ] **User Engagement**: Encourage interaction and engagement from your site visitors.

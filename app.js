@@ -44,3 +44,10 @@ document.querySelectorAll(".gallery-img").forEach((img) => {
 closeBtn.addEventListener("click", () => {
   modal.style.display = "none";
 });
+
+// Newsletter alert 
+document.querySelector(".newsletter-form")?.addEventListener("submit", function (e) {
+    e.preventDefault();
+    alert("Thanks for subscribing! Watch your inbox for Italian adventures.");
+    this.reset();
+  });

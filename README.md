@@ -52,12 +52,12 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 - [x] **Interactive Navigation**: Enhance the usability of your navigation bar.
   - Implement a dropdown menu in the navigation bar to organize additional categories or sub-pages.
 
-- [ ] **User Engagement**: Encourage interaction and engagement from your site visitors.
+- [x] **User Engagement**: Encourage interaction and engagement from your site visitors.
   - Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
 
-- [ ] **Custom Styling**: Add a personal touch to your site's design.
-  - [ ] Integrate at least one custom font using Google Fonts to add personality to your site.
-  - [ ] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
+- [x] **Custom Styling**: Add a personal touch to your site's design.
+  - [x] Integrate at least one custom font using Google Fonts to add personality to your site.
+  - [x] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
 ### Walkthrough Video
 
